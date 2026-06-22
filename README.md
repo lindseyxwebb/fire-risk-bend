@@ -4,7 +4,7 @@ An interactive GIS web application that scores wildfire risk across the Urban
 Growth Boundary (UGB) expansion areas of Bend, Oregon — built to support
 residential development site-selection and insurance-risk decisions.
 
-**Live app:** _(add your Streamlit Cloud URL here after deploying)_
+**Live app:** https://fire-risk-bend.streamlit.app/
 
 ---
 
