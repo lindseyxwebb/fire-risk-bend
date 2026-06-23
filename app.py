@@ -60,7 +60,7 @@ st.markdown("##### 💰 Insurance Cost Estimate")
 st.plotly_chart(insurance_estimate_chart(scored), use_container_width=True)
 st.caption(
     "Estimated annual homeowner insurance premiums based on published Oregon WUI market data. "
-    "High-risk WUI properties in Oregon have seen premiums rise 40–300% since 2020, "
+    "High-risk WUI properties in Oregon have seen significant premium increases in recent years, "
     "with some insurers exiting the market entirely."
 )
 

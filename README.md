@@ -11,8 +11,8 @@ residential development site-selection and insurance-risk decisions.
 ## The Problem
 
 Homebuilders developing at the urban fringe face rising exposure to wildfire
-risk. In Oregon's Wildland-Urban Interface (WUI), insurers have raised premiums
-40–300% since 2020 — and in the highest-risk zones, have stopped writing
+risk. In Oregon's Wildland-Urban Interface (WUI), insurers have significantly raised
+premiums in recent years — and in the highest-risk zones, have stopped writing
 policies altogether. Bend is one of the fastest-growing cities in Oregon and
 sits directly in the ponderosa-pine / high-desert interface, making it a prime
 case study.
